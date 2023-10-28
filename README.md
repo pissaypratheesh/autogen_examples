@@ -15,7 +15,7 @@
    pip install -r requirements.txt
    ```
 
-## To run the recipe (to create a recipe for system design)
+## To run the Autogen recipe example (to create a recipe for system design)
 
 Run the following command:
 
