@@ -93,8 +93,6 @@ Give me system design for: {design_name} system design
 
 def initiate_chat_with_message(message):
     completed_task = user_proxy.initiate_chat(assistant, message=message)
-    print(f"\n\n\n\n\nCompleted Tak:")
-    print(completed_task)
 
 # Save the original stdout
 original_stdout = sys.stdout

@@ -12,7 +12,7 @@ netflix backend
    - Sample APIs with data types and major services involved.
    - Low-level design of critical services and explain core algorithms involved.
 6. Identify potential single points of failure and their respective solutions.
-7. Write down the above data to fk.md file
+7. Write down the above data to a file
 </end recipe>
 
 
