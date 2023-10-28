@@ -1,10 +1,24 @@
- # Generic steps to install:
- conda create -n autogen python=3.10
+# Generic steps to install
 
- conda activate autogen
- 
- pip install -r requirements.txt
+1. Create a new conda environment with Python 3.10:
+   ```
+   conda create -n autogen python=3.10
+   ```
 
+2. Activate the conda environment:
+   ```
+   conda activate autogen
+   ```
 
- To run recipe (to create system design):
- `python create_recipe.py`
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## To run the recipe (to create system design)
+
+Run the following command:
+
+```
+python create_recipe.py
+```
