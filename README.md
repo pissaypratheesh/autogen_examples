@@ -15,10 +15,14 @@
    pip install -r requirements.txt
    ```
 
-## To run the recipe (to create system design)
+## To run the recipe (to create a recipe for system design)
 
 Run the following command:
 
 ```
 python create_recipe.py
 ```
+And then you can copy the recipe and paste(or leave it so if you don't want to change the existing recipe) in the `system_design_recipe.py` and run it like 
+```
+ python system_design_recipe.py --deisgn="netflix backend"
+ ```
